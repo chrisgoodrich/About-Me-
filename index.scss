@@ -1,0 +1,60 @@
+/**
+ * index.scss
+ * - Add any styles you want here!
+ */
+
+body {
+  background: #D4DBF5;
+}
+
+header {
+  padding: 90px;
+  text-align: center;
+  background: #F20505 ;
+  color: #3726A6;
+  font-size: 65px;
+}
+footer 
+{
+  position: fixed;
+  left: 0; 
+  bottom:0;
+  width:100%;
+  background-color:#F2E635;
+  color: #F20505;
+  text-align:center;
+    font-size: 15px;
+}
+
+p {
+  color: #5B44F2;
+  font-size: 30px;
+}
+
+h1 {
+  color: #F2BE22;
+}
+
+h2 {
+  color: #5B44F2;
+}
+
+.column {
+  float: left;
+  width: 40%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+
+header {
+  padding: 90px;
+  text-align: center;
+  background: #3726A6;
+  color: #F20505;
+  font-size: 65px;
+}
+
+table, th, td {
+  border: 1px solid green;
+}
